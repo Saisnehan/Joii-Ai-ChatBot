@@ -1,5 +1,6 @@
 
 
+
 # 🤖 Joii AI ChatBot
 
 Joii AI ChatBot is a smart WhatsApp chatbot built using **Python**, **Flask**, **Twilio**, and **OpenAI GPT**. It can answer general questions using AI and schedule WhatsApp reminders from natural language commands.
