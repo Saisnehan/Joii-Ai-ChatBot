@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 Create a `.env` file and add:
 
-```env
+```env  
 OPENAI_API_KEY=your_openai_api_key
 TWILIO_ACCOUNT_SID=your_account_sid
 TWILIO_AUTH_TOKEN=your_auth_token
