@@ -53,7 +53,7 @@ Activate the environment
 **Windows**
 
 ```bash
-venv\Scripts\activate
+venv\Scripts\activate  
 ```
 
 **Linux / macOS**
