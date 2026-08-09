@@ -40,7 +40,7 @@ Joii-AI-ChatBot/
 ```bash
 git clone https://github.com/Saisnehan/Joii-Ai-ChatBot.git
 cd Joii-Ai-ChatBot
-```
+```  
 
 ### 2. Create a virtual environment
 
