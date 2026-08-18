@@ -126,7 +126,7 @@ Contributions are welcome!
 4. Push to your branch
 5. Open a Pull Request
 
-## 👨‍💻 Author
+## 👨‍💻 Author  
 
 **K Sai Snehan**
 
