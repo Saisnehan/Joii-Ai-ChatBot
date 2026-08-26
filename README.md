@@ -105,7 +105,7 @@ Remind me tomorrow at 9 AM to attend the meeting
 
 ## 📸 Screenshots  
 
-Add screenshots of your chatbot conversation here.mlldmd;c,d,
+Add screenshots of your chatbot conversation here.
 
 ## 🚀 Future Enhancements
 
