@@ -116,7 +116,7 @@ Add screenshots of your chatbot conversation here.
 - User authentication
 - Conversation history
    
-## 🤝 Contributing  m;eme,el,e;
+## 🤝 Contributing  
 
 Contributions are welcome!
 
