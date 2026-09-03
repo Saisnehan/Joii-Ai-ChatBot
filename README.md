@@ -30,7 +30,7 @@ Joii-AI-ChatBot/
 ├── joii.py              # Main Flask application
 ├── README.md
 └── requirements.txt
-```
+```  
 
 ## ⚙️ Installation
 
