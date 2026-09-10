@@ -117,7 +117,7 @@ Add screenshots of your chatbot conversation here.
    
 ## 🤝 Contributing  
 
-Contributions are welcome!
+Contributions are welcome!  
   
 1. Fork the repository    
 2. Create a new branch    
