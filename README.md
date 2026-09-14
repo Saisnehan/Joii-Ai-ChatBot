@@ -110,7 +110,7 @@ Add screenshots of your chatbot conversation here.
 
 - Voice message support
 - Multi-language conversations
-- Reminder management (edit/delete)
+- Reminder management (edit/delete)   
 - Database integration    
 - User authentication
 - Conversation history
